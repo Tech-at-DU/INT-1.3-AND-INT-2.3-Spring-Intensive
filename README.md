@@ -65,6 +65,18 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 [REQUIRED: Proposal Approval]: Lessons/12-required-proposal-approval.md
 
 
+## Part II - Portfolio Improvement and Career Readiness
+
+Please choose one of the following options to complete by 9am on Monday morning. Turn in your artifact/deliverable for your task in the tracker.
+
+1. Pick an old project, improve it and add it to your portfolio. Turn in project live link or code link	
+1. Pick a new language, framework, or tool and complete a brief beginner tutorial/app with it. Turn in github repo	
+1. Pick a technical topic and write a 1500 word blog post about it. Turn in link to article	
+1. Reach out to 10 potential industry contacts and try to set up 2-3 phone conversations. Turn in spreadsheet of icon's names and linkedin profiles you reached out to.	
+1. Write a tutorial (written in Markdown) for how to build a simple project or implement a particular library or feature. Turn in github repo. 	
+1. Other: please confirm with your standup instructor. Choices must have a concrete deliverable/artifact that can be turned in
+
+
 ## Evaluation
 To pass this course you must meet the following requirements:
 
