@@ -42,7 +42,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 | **Tuesday, 3/16**    |  9:30-10:50am   | Working with animations in iOS (Adriana)
 | **Monday, 3/22**     | 9:30 am-10:50am | Pitch Tips: Engaging Audience   |
 | **Tuesday, 3/23**    | 9:30 am-9:55am | Pitch Presentations              |
-| **Wednesday, 3/25**  | 1:45 – 2:45pm  | Last chance to submit your work  |
+| **Wednesday, 3/25**  | 1:45 – 2:45pm  | Last chance to submit your work (on Gradescope)  |
 |                      | 3 – 5pm. | Intensive Pitches
 
 [Intensive Kickoff Ceremony]: https://docs.google.com/presentation/d/1P3rxO3vaeR9S16M1b-gVwyFfz_lYOyTGMexI3e9CRVw/edit#slide=id.p
