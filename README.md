@@ -43,7 +43,7 @@ Attendance is required from 9:30 to 5:30 every day including the following sessi
 | **Monday, 3/22**     | 9:30 am-10:50am | Pitch Tips: Engaging Audience   |
 | **Tuesday, 3/23**    | 9:30 am-9:55am | Pitch Presentations              |
 | **Wednesday, 3/25**  | 1:45 – 2:45pm  | Last chance to submit your work  |
-|                      | 3:30 – 5:30pm. | Intensive Pitches
+|                      | 3 – 5pm. | Intensive Pitches
 
 [Intensive Kickoff Ceremony]: https://docs.google.com/presentation/d/1P3rxO3vaeR9S16M1b-gVwyFfz_lYOyTGMexI3e9CRVw/edit#slide=id.p
 [Intensive Kickoff: Trends in Tech & Ideation]: Lessons/01-intensive-kickoff.md
@@ -67,12 +67,12 @@ To pass this course you must meet the following requirements:
 - Attend all class sessions
 - Submit intensive assignments on gradescope on time.
 - **Final Submission:** submit final pitches via Gradescope.
-- **Pitch slides & presentation (due Fri March 26th @ 3:00pm)** - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
+- **Pitch slides & presentation - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
     - Should be 3 min in length and include the following four slides at a minimum: Problem, Current Solutions, My Solution, Call-To-Action.
     - Product Pitches will occur on last day of intensive event. Each student/group will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
-- **Final Product (due Fri March 26th @ 2pm)** passes if it meets all of the following 
+- **Final Product passes if it meets all of the following 
     - Juniors: 
-        - Score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
+        - achieve 2 of 3 objectives. Also score an average of above a 1.5 on the [Intensive Project Rubric](https://docs.google.com/document/d/1IOQDmohLBEBT-hyr-2vgw1mbZUNsq3fHxVfH0oRmVt0/edit) 
     - Seniors: achieve 2 of 3 objectives on the [Senior Intensive Proposal](on Gradescope).
 - **Pass:** Students must pass both Pitches and Final Product in order to pass the intensive
 
