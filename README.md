@@ -67,6 +67,7 @@ To pass this course you must meet the following requirements:
 - Attend all class sessions
 - Submit intensive assignments on gradescope on time.
 - **Final Submission:** submit final pitches via Gradescope.
+- ** Create and submit a screencast of your pitch for potential employers. 2-3 mintues long video showing your product while you're explaing your project.
 - **Pitch slides & presentation - passes if scores above a 1 on the [Presentation Rubric](https://docs.google.com/document/d/1WTLcZNyvRGYDz5L8Kr8a0ILbFAyr92u85paoqGFjxPg/edit).
     - Should be 3 min in length and include the following four slides at a minimum: Problem, Current Solutions, My Solution, Call-To-Action.
     - Product Pitches will occur on last day of intensive event. Each student/group will present their product. ([Class slides](https://docs.google.com/presentation/d/1pwUefBG8C-WjebEYp0bzLc3OPYgFu5ZNivCAl_FPutE/edit#slide=id.g4d412370b7_0_63))
